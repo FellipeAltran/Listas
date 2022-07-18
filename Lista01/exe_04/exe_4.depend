@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1656618476 source:d:\algoritmo\lista01\exe_4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1656619276 source:d:\algoritmo\lista01\exe_04\main.c
+	<stdio.h>
+	<stdlib.h>
+
